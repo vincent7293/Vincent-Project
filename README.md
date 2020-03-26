@@ -6,9 +6,9 @@ Vincent's Project
 *2020*
 ## 使用Deep Learning進行股市當沖交易  (緯育AI工程師班 期末專題)
 * 爬取證交所資料，並進行ETL*  
-* 使用TensorFlow搭建及訓練RNN、DQN模型  
+* 使用TensorFlow搭建及訓練RNN、Deep Q Network（DQN）模型  
 * 在Azure部署Kubernetes容器化爬蟲及資料庫系統  
->[簡報](https://github.com/vincent7293/Machine-Learning-for-Day-Trading/blob/master/AI技術應用工程師班02期第一組期末報告.pdf)
+>[簡報](https://github.com/vincent7293/Machine-Learning-for-Day-Trading)
   
 ---
 *2019*
