@@ -2,7 +2,7 @@ Vincent's Project
 以下為本人負責及開發項目  
 (標註*為團隊合作項目，參與部分)  
 
----
+
 # 2020
 ### 遊戲畫面物件辨識及Flask + React.js網頁
 * 使用EfficientDet及Yolo v4訓練遊戲畫面辨識 [Demo影片](https://drive.google.com/file/d/1-IrRLeY-si1KGgZB6E6LBzUr13KfnzgR/view?usp=sharing)
@@ -11,14 +11,13 @@ Vincent's Project
 * 串接Google OAuth 2.0登入機制及reCaptcha機器人驗證
 > [前往網站](https://elite-ai-lab.herokuapp.com/)
 
-
+---
 ### 使用Deep Learning進行股市當沖交易  (緯育AI工程師班 期末專題)
 * 爬取證交所資料，並進行ETL*  
 * 使用TensorFlow搭建及訓練RNN、Deep Q Network（DQN）模型  
 * 在Azure部署Kubernetes容器化爬蟲及資料庫系統  
 > [簡報](https://github.com/vincent7293/Machine-Learning-for-Day-Trading)
   
----
 # 2019
 ### 簡易訂房、發票對獎 Line Chatbot
 * 爬取asiayo訂房網站
@@ -27,7 +26,6 @@ Vincent's Project
 * 透過LIFF v2 QR Code讀取發票及對獎  
 > [發票對獎Demo影片](https://drive.google.com/file/d/1C_Ll1fEENFytrTzZRWu9RtbILH03zcP0/view?usp=sharing)
   
----
 # 2017
 ### 360 VR網站架設
 * 前端Bootstrap開發RWD網頁
@@ -35,14 +33,14 @@ Vincent's Project
 * 後端PHP開發
 * 在Google Cloud Platform部署Linux VM及Load Balance  
 > [前往觀看](https://wonderwang.com)
-  
-  
+
+---
 ### 教藝 (畢業專題)
 * 後端PHP開發*
 * MySQL ERD設計*
-* Linux伺服器建置  
-  
-  
+* Linux伺服器建置 
+
+---
 ### ASP .NET應用程式開發與設計課程 練習
 * .NET MVC後端開發  
 * Kendo UI前端套版  
