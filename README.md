@@ -40,7 +40,7 @@ Vincent's Project
 
 
 ---
-### 教藝 (畢業專題)
+### 教藝 線上家教媒合網站 (畢業專題)
 * 後端PHP開發*
 * MySQL ERD設計*
 > [網站Demo影片](https://drive.google.com/file/d/0B04ox7Pn5XlOdUs4QnRubU5RT2c/view?usp=sharing)
