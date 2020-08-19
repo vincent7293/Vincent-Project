@@ -5,7 +5,7 @@ Vincent's Project
 
 # 2020
 ### 遊戲畫面物件辨識及Flask + React.js網頁
-* 使用EfficientDet及Yolo v4訓練遊戲畫面辨識 [Demo影片](https://drive.google.com/file/d/1-IrRLeY-si1KGgZB6E6LBzUr13KfnzgR/view?usp=sharing)
+* 使用EfficientDet及Yolo v4訓練遊戲畫面辨識 [Demo影片](http://bit.ly/vin-demo2)
 * Flask架設後端API存取PostgreSQL資料
 * React作為前端框架
 * 串接Google OAuth 2.0登入機制及reCaptcha機器人驗證
@@ -43,7 +43,7 @@ Vincent's Project
 ### 教藝 線上家教媒合網站 (畢業專題)
 * 後端PHP開發*
 * MySQL ERD設計*
-> [網站Demo影片](https://drive.google.com/file/d/0B04ox7Pn5XlOdUs4QnRubU5RT2c/view?usp=sharing)
+> [網站Demo影片](http://bit.ly/vin-demo)
 
 > [使用Jenkins及SonarQube分析網站](https://docs.google.com/document/d/1GS_cfYE8UtMFPUsOuYQSowvDVjRbwbJW9OlpuEV_Gas/edit?usp=sharing)
 
