@@ -5,12 +5,16 @@ Vincent's Project
 
 # 2020
 ### 遊戲畫面物件辨識及Flask + React.js網頁
-* 使用EfficientDet及Yolo v4訓練遊戲畫面辨識 [Demo影片](http://bit.ly/vin-demo2)
+* 使用EfficientDet及Yolo v4訓練遊戲畫面辨識 
 * Flask架設後端API存取PostgreSQL資料
 * React作為前端框架
 * 串接Google OAuth 2.0登入機制及reCaptcha機器人驗證
 * 利用GitLab CI/CD Build Docker Image，並自動Deploy至 Heroku
 > [前往網站](https://elite-ai-lab.herokuapp.com/)
+
+> [模型辨識 Demo](http://bit.ly/vin-game-1)
+
+> [實際運作 Demo](http://bit.ly/vin-game-2)
 
 
 ---
@@ -26,8 +30,10 @@ Vincent's Project
 * 爬取asiayo訂房網站
 * 使用PostgreSQL存取訂房紀錄  
 * 串接Line Messaging API*
-* 透過LIFF v2 QR Code讀取發票及對獎  
-> [發票對獎Demo影片](https://drive.google.com/file/d/1C_Ll1fEENFytrTzZRWu9RtbILH03zcP0/view?usp=sharing)
+* 透過LIFF v2 QR Code讀取發票及對獎
+> [訂房Chatbot Demo影片](http://bit.ly/vin-hotel-1)
+
+> [發票對獎Demo影片](http://bit.ly/vin-hotel-2)
 
 
 # 2017
@@ -43,7 +49,7 @@ Vincent's Project
 ### 教藝 線上家教媒合網站 (畢業專題)
 * 後端PHP開發*
 * MySQL ERD設計*
-> [網站Demo影片](http://bit.ly/vin-demo)
+> [網站Demo影片](http://bit.ly/friteach)
 
 > [使用Jenkins及SonarQube分析網站](https://docs.google.com/document/d/1GS_cfYE8UtMFPUsOuYQSowvDVjRbwbJW9OlpuEV_Gas/edit?usp=sharing)
 
